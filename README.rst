@@ -28,6 +28,9 @@ Requirements
 Installation
 -------------
 
+HAProxy and Ejabberd is provided by this repository::
+
+    zypper addrepo http://download.opensuse.org/repositories/server:http/SLE_11_SP2/server:http.repo
 
 Development mode::
 
